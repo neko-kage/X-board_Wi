@@ -4,4 +4,4 @@
 
 ## Stargazers 
 
-[![Stargazers over time](https://starchart.cc/FunnyWolf/Viper.svg)](https://starchart.cc/FunnyWolf/Viper)
+[![Stargazers over time](https://starchart.cc/FunnyWolf/X-board_Wi.svg)](https://starchart.cc/FunnyWolf/X-board_Wi)
